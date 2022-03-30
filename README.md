@@ -8,8 +8,15 @@
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
+$ git clone https://github.com/GargiChakraverty/Shortify.git
+```
+Then inside terminal install node_modules by:-
+```
 $ npm install
+```
+Make a .env file and paste your MongoDB connection string
+```
+Then type :-
+```
 $ npm start
 ```
