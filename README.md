@@ -8,17 +8,17 @@
 
 ## Installation
 ***
-A little intro about the installation. 
+* Clone the repo in your local machine:-
 ```
 $ git clone https://github.com/GargiChakraverty/Shortify.git
 ```
-Then inside terminal install node_modules by:-
+* Then inside terminal install node_modules by:-
 ```
 $ npm install
 ```
-Make a .env file and paste your MongoDB connection string.
+* Make a .env file in your root directory and paste your MongoDB connection string there.
 
-Finally run on terminal:-
+* Finally run on terminal:-
 ```
 $ npm start
 ```
