@@ -22,3 +22,6 @@ $ npm install
 ```
 $ npm start
 ```
+* Go to localhost:5000
+
+
