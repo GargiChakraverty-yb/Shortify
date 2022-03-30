@@ -15,8 +15,7 @@ Then inside terminal install node_modules by:-
 $ npm install
 ```
 Make a .env file and paste your MongoDB connection string
-```
-Then type :-
+Finally run on terminal:-
 ```
 $ npm start
 ```
